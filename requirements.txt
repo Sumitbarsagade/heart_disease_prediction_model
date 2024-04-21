@@ -2,6 +2,6 @@ fastapi
 uvicorn
 pydantic
 requests
-scikit_learn
+scikit-learn==1.2.2
 gunicorn
 pypi-json
